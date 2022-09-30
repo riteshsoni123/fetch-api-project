@@ -3,6 +3,12 @@
 This is a simple project made to show the data fetched by with
 the help of api to the user.
 
+## Screenshots
+
+![Screenshot (388)](https://user-images.githubusercontent.com/26280032/193280941-ff25c876-550a-4c55-ab50-7e58a09936e9.png)
+
+![Screenshot (389)](https://user-images.githubusercontent.com/26280032/193281154-1ce673f3-33c4-48a3-a649-ba7cdf427e8d.png)
+
 # Working
 
 This section explains the method used to create the project.
