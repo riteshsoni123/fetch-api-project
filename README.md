@@ -45,7 +45,7 @@ Below are some steps for the installation of the app in local system.
 1 -> Clone the repo.
 
 ```bash
-  www.google.com
+  https://github.com/riteshsoni123/fetch-api-project.git
 ```
 
 2 ->Change the directory to client.
